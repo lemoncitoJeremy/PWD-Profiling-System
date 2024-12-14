@@ -1,0 +1,43 @@
+1375040080008VC	Dela Cruz	Elizabeth	Tenidor	63	Female	09/30/1960	Orthopedic	Dela Cruz,Lilibeth,	09227703304	B1 L6	Arty Subd. karuhatan, Valenzuela City
+1375040080009VC	Licas	Elizabeth	Pacheco	60	Female	12/11/1963	Orthopedic	Licas,Francisco,		557	Area 5 Family Compound, Karuhatan, Valenzuela City
+1375040080011VC	Vitug	Moneth	Velilla	33	Female	10/05/1990	Visual	Vitug,John Paul,	09954881759	L11 B3	Arty Subd. Karuhatan, Valenzuela City
+1375040080012VC	Agustin	Letty	Suyat	57	Female	08/28/1996	Visual	Agustin,Jaime,	4436320	61	A. Pabio St. 1 Karuhatan, Valenzuela City
+1375040080013VC	Guzman	Rose Ann	Allam	30	Female	04/23/1993	Orthopedic	Guzman,Richa,	09359649878	14	Reyes Compound, Karuhatan, Valenzuela City
+1375040080014VC	Sibal	Maricar	Samia	40	Female	11/29/1983	Visual	Samia,Jennifer,	4456960	201	J. Reyes St. House 3808, karuhatan, Valenzuela City
+1375040080015VC	Sibal	Jennifer	Samia	60	Female	03/28/1963	Visual	Sibal,Ricardo,	4456906	201	J. Reyes St. House 3808, Karuhatan, Valenzula City
+1375040080016VC	Calata	Rodolfo	Fugaban	63	Male 	02/09/1960	Orthopedic	Calata,Gina,	09193741678	683	Mangganan St., Karuhatan, Valenzuela City
+1375040080019VC	De Guia	Jordan	Medina	31	Male 	12/14/1992	Psychosocial	De guia,Melissa,	3763445	93	Padrinao St., Karuhatan, Valenzuela City
+1375040080036VC	test3	test3	test3	2	Male 	  /  /    	Visual	ee,e,	e	e	e
+1375040080037VC	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1375040080010VC	Pacheco	Roberto 	Salvador	57	Male 	04/06/1966	Visual	Pacheco,Josefina,S.	09486698520	1A	Area 5 Family Compound, Karuhatan, Valenzuela City
+1375040080038VC	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1375040080039VC	test4	test4	test4	7	Male 	02/24/1997	Chronic	test4,test4,test4	test4	test4	test4
+1375040080041VC	chavez	humbert	edgar	20	Male 	02/27/1971	Chronic	chavez,gertrude,beckett	203131923	42814821	87412870124
+1375040080042VC	user	user	user	24	Male 	02/26/1974	Visual	user,user,use	user	user	user
+1375040080043VC	user2	user2	user2	24	Male 	  /  /    		,,			
+1375040080001VC	Bustamante	Janile	Nayles	31	Male 	07/13/1992	Hearing	Bustamante,Mercy,Nayles	09296612103	n/a	Area 2 Family Compound, Karuhatan, Valenzuela city
+1375040080002VC	Ingente	Narvic Ian	Cruspero	39	Male 	07/13/1992	Speech/Learning	Cruspero,Victoria,D.	09482899508	3995	B. Lopez St. Karuhatan, Valenzuela City
+1375040080003VC	Chua	William	Adano	28	Male 	07/13/1992	Orthopedic	Chua,Edna,A.	8785-1193	52	A. Pablo St. Karuhatan, Valenzuela City
+1375040080004VC	Olores	Marinel	Gelera	30	Female	11/18/1993	Learning	Gelera,Teresita,Adonay	09194821102	1332	Agapita St., Gen T. De Leon, Valenzuela City
+1375040080005VC	Olores	Jovan	Gelera	19	Male 	08/07/2004	Learning	Gelera,Teresita,Adonay	09194821102	B12-L3	Milestone Executive Homes, Karuhatan, Valenzuela City
+1375040080006VC	Aloba	Thor Gabriel	Vergara	12	Male 	05/30/2011	Speech	Aloba,Celber,	09228873863	L10 B12	Milestone Executive Homes, Karuhatan, Valenzuela City
+1375040080007VC	Vitug	Stephen Derrick	Velilla	9	Male 	07/01/2014	Learning	Vitug,Moneth,	09954881759	L11 B3	Arty Subd. 4, Karuhatan, Valenzuela City
+1375040080034VC	test	test	test	12	Male 	02/20/1968	Chronic	test,test,test	test	test	test
+1375040080035VC	e	te	te	12	Male 	02/20/1968		ee,e,e	ee	e	e
+1375040080017VC	Tiu	Medardo	MCoura	61	Male 	06/08/1962	Hearing	Tiu,Marina,	09153275963	93	M. Padrinao St., Karuhatan, Valenzuela City
+1375040080018VC	Medina	Enrico	Viscara	56	Male 	12/30/1967	Visual/Orthopedic	Melissa,De Guia,	3763445	93	Padrinao St., Karuhatan, Valenzuela City
+1375040080020VC	Padrinao	John 	Paul	20	Male 	12/11/2003	Learning	Padrinao,Catherine,T.	09776437338	93	Padrinao St. Karuhatan, valenzuela City
+1375040080021VC	Magboo	John Paul	Jurado	42	Male 	09/06/1981	Learning	Magboo,Albert,	09099993552	66	Silangan Park, Valenzuela City
+1375040080022VC	Coco	Christielyn	Tarong	13	Female	04/22/2010	Orthopedic	Tarong,Teresa,	09093718103	20	Salt St. Llenado, Karuhatan, Valenzuela City
+1375040080023VC	Maganis	Mariano	Subido	60	Male 	07/11/1963	Orthopedic	Maganis,Elena,	2773242	B13 L2	Milestone Subd. Karuhatan, Valenzuela City
+1375040080024VC	Doon	Honorata	Hernandez	62	Female	09/07/1961	Hearing/Orthopedic	Doon,Hilarid,T.	09758610185	1919	Bible St. Karuhatan, Valenzuela City
+1375040080025VC	Cuevas	Juliet	Castillo	52	Female	09/01/1961	Orthopedic	Cuevas,Rogelio,	09169162061		Area 1 Family Compound, Valenzuela City
+1375040080026VC	Balatay	Jonathan	Pagubasan	24	Male 	01/16/1999	Orthopedic	Balatay,Annie,	09300093834		Area 1 Family Compound, Valenzuela City
+1375040080027VC	Hong	Henry	Sia	58	Male 	06/20/1965	Orthopedic	Hong,Celia,	4450912	15 Blk14	Milestone Subd, Karuhatan, Valenzuela City
+1375040080028VC	Cantilang	Rayven rick	dela torre	18	Male 	12/18/2005	Learning	Dela torre,rosita,	09099428494	201	Area 2 Family Compound, Karuhatan, Valenzuela City
+1375040080029VC	Ignacio	Nanette	Labrador	46	Male 	01/02/1977	Orthopedic	Labrador,Nenita,	09485576713	276	Area 2 Family Compound, Karuhatan, Valenzuela City
+1375040080030VC	Contridas	Amy	Pason	42	Female	09/04/1981	Orthopedic	Contridas,Emelita,	09485576713	101	Family Compound, Karuhatan , Valenzuela City
+1375040080031VC	Lozano	Gerard	Sanchez	23	Male 	09/04/1981	Orthopedic	Sanchez,Jerome,	09227925933	10	Area 1 Family Compound, Karuhatan, Valenzuela City
+1375040080032VC	Longno	Rochelle	Gentuba	47	Female	02/02/1976	Visual	Balanquit,Jerry,	09970789425	2991	M. Lopez Compound, San Felipe St., Karuhatan, Valenzuela City
+1375040080033VC	Cambay	Tracey Drew	Lorenzo	22	Female	02/07/2001	Orthopedic	Cambay,Rodel,G.	09093352868	70	Fredel Compound, Ilang ilang st., Karuhatan, Valenzuela City
+1375040080040VC	test5	test55	test5	4	Male 	01/23/1974	Chronic/Visual	test,test,testt	09212	12	1231
